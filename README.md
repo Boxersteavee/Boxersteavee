@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Boxersteavee</h1>
+<h3 align="center">I aspire to be backend developer, I'm from the UK if you're wondering.</h3>
 
-<!--
-**Boxersteavee/Boxersteavee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently working on [JARD Bot](http://github.com/Boxersteavee/JARD-Bot)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python, C# (ish) and HTML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **boxersgaming@hotmail.com**
+
+- ⚡ Fun fact **I'm 14!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/boxersteavee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boxersteavee" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boxersteavee&show_icons=true&locale=en&layout=compact" alt="boxersteavee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boxersteavee&show_icons=true&locale=en" alt="boxersteavee" /></p>
+
