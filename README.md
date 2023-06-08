@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **boxersgaming@hotmail.com**
 
-- ⚡ Fun fact **I'm 14!**
+- ⚡ Fun fact **I'm 15!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
