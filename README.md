@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C# (ish) and HTML**
 
-- 📫 How to reach me **boxersgaming@hotmail.com**
+- 📫 Reach me on discord @Boxersteavee
 
 - ⚡ Fun fact **I'm 15!**
 
