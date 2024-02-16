@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boxersteavee</h1>
 <h3 align="center">I aspire to be backend developer, I'm from the UK if you're wondering.</h3>
 
-- 💻 I’m currently working on [JARD Bot](http://github.com/Boxersteavee/JARD-Bot)
+- 💻 I’m currently working on School ~~[JARD Bot](http://github.com/Boxersteavee/JARD-Bot)~~
 
 - 🌱 I’m currently learning **Python, C# (ish) and HTML**
 
