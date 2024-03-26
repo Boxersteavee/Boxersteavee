@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boxersteavee</h1>
-<h3 align="center">I aspire to be backend developer, I'm from the UK if you're wondering.</h3>
+<h3 align="center">I don't know what I want to do with my future, but I want to do something where I make a physical thing. I'm from the UK if you're wondering.</h3>
 
 - 💻 I’m currently working on School ~~[JARD Bot](http://github.com/Boxersteavee/JARD-Bot)~~
 
-- 🌱 I’m currently learning **Python, C# (ish) and HTML**
+- 🌱 I’m currently studying for my GCSEs, as I am in Year 11
 
 - 📫 Reach me on discord @Boxersteavee
 
