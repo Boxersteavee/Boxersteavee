@@ -7,7 +7,7 @@
 
 - 📫 Reach me on discord @Boxersteavee
 
-- ⚡ Fun fact **I'm 15!**
+- ⚡ Fun fact **I'm 16!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
