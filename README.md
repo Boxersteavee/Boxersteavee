@@ -9,9 +9,9 @@
 
 - ⚡ Fun fact **I'm 16!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me: me:</h3>
 <p align="left">
-Discord: @Boxersteavee <br>Twitter/X: @Boxersteavee
+Discord: @Boxersteavee <br>Twitter/X: @Boxersteavee <br> Email: <a href=mailto://ben@boxersteavee.dev>ben@boxersteavee.dev<\a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
