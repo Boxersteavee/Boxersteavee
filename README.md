@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I'm from the UK!**
 
-- Read More about my on [My Website](https://boxersteavee.dev)
+- Read More about me on [My Website](https://boxersteavee.dev)
 
 <h3 align="left">Contact me</h3>
 <p align="left">
