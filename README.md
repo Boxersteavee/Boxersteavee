@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Boxersteavee</h1>
 <h3 align="center">I aspire to do something related to Computer Networking in the future, ideally with hardware.</h3>
 
-- 💻 I’m currently working on School ~~[JARD Bot](http://github.com/Boxersteavee/JARD-Bot)~~
+- 💻 I’m currently working on School Work :/
 
-- 🌱 I’m currently studying for my GCSEs, as I am in Year 11
+- 🌱 I’m currently studying for my A-Levels, in Year 12.
 
 - 📫 Reach me on discord @Boxersteavee
 
-- ⚡ Fun fact **I'm from the UK!**
+- ⚡ Fun fact: **I'm from the UK!**
 
 <h3 align="left">Contact me: me:</h3>
 <p align="left">
