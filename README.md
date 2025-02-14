@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I'm from the UK!**
 
-<h3 align="left">Contact me: me:</h3>
+<h3 align="left">Contact me</h3>
 <p align="left">
 Discord: @Boxersteavee <br>Twitter/X: @Boxersteavee <br> Email: <a href=mailto://ben@boxersteavee.dev>ben@boxersteavee.dev
 </p>
