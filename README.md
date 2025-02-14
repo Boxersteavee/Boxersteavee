@@ -3,11 +3,13 @@
 
 - 💻 I’m currently working on School Work :/
 
-- 🌱 I’m currently studying for my A-Levels, in Year 12.
+- 🌱 I’m currently studying for A-Levels, in Year 12.
 
 - 📫 Reach me on discord @Boxersteavee
 
 - ⚡ Fun fact: **I'm from the UK!**
+
+- Read More about my on [My Website](https://boxersteavee.dev)
 
 <h3 align="left">Contact me</h3>
 <p align="left">
