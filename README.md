@@ -13,7 +13,7 @@
 
 <h3 align="left">Contact me</h3>
 <p align="left">
-Discord: @Boxersteavee <br>Twitter/X: @Boxersteavee <br> Email: <a href=mailto://ben@boxersteavee.dev>ben@boxersteavee.dev
+Discord: @Boxersteavee <br>Twitter/X: @Boxersteavee <br> Email: <a href=mailto:ben@boxersteavee.dev>ben@boxersteavee.dev
 </p>
 
 <h3 align="left">Languages and Tools</h3>
