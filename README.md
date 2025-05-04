@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Boxersteavee</h1>
+<h1 align="center">Hi 👋, I'm Ben, aka Boxersteavee</h1>
 <h3 align="center">I aspire to do something related to Computer Networking in the future, ideally with hardware.</h3>
 
-- 💻 I’m currently working on School :)
+- 💻 I’m currently working on School :|
 
 - 🌱 I’m currently studying for A-Levels, in Year 12.
 
